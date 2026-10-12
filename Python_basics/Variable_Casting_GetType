@@ -1,0 +1,14 @@
+# A variable works like a storage box 
+# we can Assign a value or dada usint "=" symbol ,and that perticular value will be stored in a variable 
+# we cannot create a variable starting by number or any special character instead we can start with a letter , _ .
+# variables are case sensitive
+""" example """
+name1="hema"
+name2="pandiyan"
+age=23
+print(name1,name2)
+print(type(age))#to get datatype
+"""castint adding datatype to a value which is not required to mention in python"""
+phone=int(91) #Casting
+print(phone)
+
